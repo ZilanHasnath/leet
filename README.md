@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ZilanHasnath/leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/ZilanHasnath/leet/tree/master/0031-next-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ZilanHasnath/leet/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/ZilanHasnath/leet/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
